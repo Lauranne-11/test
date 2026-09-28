@@ -48,4 +48,6 @@ Pour arrêter : fermez la fenêtre noire (Windows) ou la fenêtre Terminal (Mac 
 > - **Brouillon coché = visible seulement chez vous** (case « Brouillon » d'une actualité, d'un événement ou d'une sélection) : regardez l'actualité « Brouillon d'exemple », elle est dans votre aperçu mais pas sur le site en ligne. Un article daté dans le futur n'est pas publié non plus avant sa date.
 > - **Après un Pull, rechargez la page du CMS.**
 
-Le code du template est sous licence MIT ; le contenu que vous écrivez vous appartient.
+Le code du template est sous licence MIT ; le contenu que vous écrivez vous appartientmmmmm
+
+modifications
